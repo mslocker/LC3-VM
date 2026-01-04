@@ -1,0 +1,11 @@
+[33mcommit bfa1c0b6b1f3ebc6eb0fcf203609dbc313f553f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Tran Minh Son <son.tran1010@hcmut.edu.vn>
+Date:   Tue Dec 30 16:10:36 2025 +0700
+
+    Add lc3_vm.cpp file
+
+[33mcommit 4396546d39ba81cdd67c61a0b07f0963aa84b45f[m
+Author: Tran Minh Son <son.tran1010@hcmut.edu.vn>
+Date:   Sat Dec 27 11:09:44 2025 +0700
+
+    add index.html
